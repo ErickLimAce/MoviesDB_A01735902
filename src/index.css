@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*  */
+.block-page { @apply pt-16 bg-slate-950 min-h-screen;
+position: absolute;
+width:100% ;}
